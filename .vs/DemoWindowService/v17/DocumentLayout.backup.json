@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GHM\\source\\repos\\DemoWindowService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13ECE9FA-B69D-49CD-BFF7-046894573BB5}|DemoWindowService\\DemoWindowService.csproj|c:\\users\\ghm\\source\\repos\\demowindowservice\\demowindowservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13ECE9FA-B69D-49CD-BFF7-046894573BB5}|DemoWindowService\\DemoWindowService.csproj|solutionrelative:demowindowservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13ECE9FA-B69D-49CD-BFF7-046894573BB5}|DemoWindowService\\DemoWindowService.csproj|C:\\Users\\GHM\\source\\repos\\DemoWindowService\\demowindowservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13ECE9FA-B69D-49CD-BFF7-046894573BB5}|DemoWindowService\\DemoWindowService.csproj|solutionrelative:demowindowservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13ECE9FA-B69D-49CD-BFF7-046894573BB5}|DemoWindowService\\DemoWindowService.csproj|C:\\Users\\GHM\\source\\repos\\DemoWindowService\\demowindowservice\\service1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13ECE9FA-B69D-49CD-BFF7-046894573BB5}|DemoWindowService\\DemoWindowService.csproj|solutionrelative:demowindowservice\\service1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DemoWindowService||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13ECE9FA-B69D-49CD-BFF7-046894573BB5}|DemoWindowService\\DemoWindowService.csproj|C:\\Users\\GHM\\source\\repos\\DemoWindowService\\demowindowservice\\schedulevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13ECE9FA-B69D-49CD-BFF7-046894573BB5}|DemoWindowService\\DemoWindowService.csproj|solutionrelative:demowindowservice\\schedulevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13ECE9FA-B69D-49CD-BFF7-046894573BB5}|DemoWindowService\\DemoWindowService.csproj|C:\\Users\\GHM\\source\\repos\\DemoWindowService\\demowindowservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13ECE9FA-B69D-49CD-BFF7-046894573BB5}|DemoWindowService\\DemoWindowService.csproj|solutionrelative:demowindowservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13ECE9FA-B69D-49CD-BFF7-046894573BB5}|DemoWindowService\\DemoWindowService.csproj|C:\\Users\\GHM\\source\\repos\\DemoWindowService\\demowindowservice\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13ECE9FA-B69D-49CD-BFF7-046894573BB5}|DemoWindowService\\DemoWindowService.csproj|solutionrelative:demowindowservice\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13ECE9FA-B69D-49CD-BFF7-046894573BB5}|DemoWindowService\\DemoWindowService.csproj|C:\\Users\\GHM\\source\\repos\\DemoWindowService\\demowindowservice\\projectinstaller.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13ECE9FA-B69D-49CD-BFF7-046894573BB5}|DemoWindowService\\DemoWindowService.csproj|solutionrelative:demowindowservice\\projectinstaller.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13ECE9FA-B69D-49CD-BFF7-046894573BB5}|DemoWindowService\\DemoWindowService.csproj|c:\\users\\ghm\\source\\repos\\demowindowservice\\demowindowservice\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|cc4014f5-b18d-439c-9352-f99d984cca85"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DemoWindowService",
+              "DocumentMoniker": "C:\\Users\\GHM\\source\\repos\\DemoWindowService\\DemoWindowService\\DemoWindowService.csproj",
+              "RelativeDocumentMoniker": "DemoWindowService\\DemoWindowService.csproj",
+              "ToolTip": "C:\\Users\\GHM\\source\\repos\\DemoWindowService\\DemoWindowService\\DemoWindowService.csproj",
+              "RelativeToolTip": "DemoWindowService\\DemoWindowService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-28T10:07:59.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service1.cs",
+              "DocumentMoniker": "C:\\Users\\GHM\\source\\repos\\DemoWindowService\\DemoWindowService\\Service1.cs",
+              "RelativeDocumentMoniker": "DemoWindowService\\Service1.cs",
+              "ToolTip": "C:\\Users\\GHM\\source\\repos\\DemoWindowService\\DemoWindowService\\Service1.cs",
+              "RelativeToolTip": "DemoWindowService\\Service1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwDsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:01:09.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\GHM\\source\\repos\\DemoWindowService\\DemoWindowService\\Service1.Designer.cs",
+              "RelativeDocumentMoniker": "DemoWindowService\\Service1.Designer.cs",
+              "ToolTip": "C:\\Users\\GHM\\source\\repos\\DemoWindowService\\DemoWindowService\\Service1.Designer.cs",
+              "RelativeToolTip": "DemoWindowService\\Service1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:35:59.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\GHM\\source\\repos\\DemoWindowService\\DemoWindowService\\Service1.cs",
+              "RelativeDocumentMoniker": "DemoWindowService\\Service1.cs",
+              "ToolTip": "C:\\Users\\GHM\\source\\repos\\DemoWindowService\\DemoWindowService\\Service1.cs [Design]",
+              "RelativeToolTip": "DemoWindowService\\Service1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:58:11.831Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScheduleVM.cs",
+              "DocumentMoniker": "C:\\Users\\GHM\\source\\repos\\DemoWindowService\\DemoWindowService\\ScheduleVM.cs",
+              "RelativeDocumentMoniker": "DemoWindowService\\ScheduleVM.cs",
+              "ToolTip": "C:\\Users\\GHM\\source\\repos\\DemoWindowService\\DemoWindowService\\ScheduleVM.cs",
+              "RelativeToolTip": "DemoWindowService\\ScheduleVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:12:11.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GHM\\source\\repos\\DemoWindowService\\DemoWindowService\\Program.cs",
+              "RelativeDocumentMoniker": "DemoWindowService\\Program.cs",
+              "ToolTip": "C:\\Users\\GHM\\source\\repos\\DemoWindowService\\DemoWindowService\\Program.cs",
+              "RelativeToolTip": "DemoWindowService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:09:02.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Users\\GHM\\source\\repos\\DemoWindowService\\DemoWindowService\\Utilities.cs",
+              "RelativeDocumentMoniker": "DemoWindowService\\Utilities.cs",
+              "ToolTip": "C:\\Users\\GHM\\source\\repos\\DemoWindowService\\DemoWindowService\\Utilities.cs",
+              "RelativeToolTip": "DemoWindowService\\Utilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:59:37.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProjectInstaller.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\GHM\\source\\repos\\DemoWindowService\\DemoWindowService\\ProjectInstaller.Designer.cs",
+              "RelativeDocumentMoniker": "DemoWindowService\\ProjectInstaller.Designer.cs",
+              "ToolTip": "C:\\Users\\GHM\\source\\repos\\DemoWindowService\\DemoWindowService\\ProjectInstaller.Designer.cs",
+              "RelativeToolTip": "DemoWindowService\\ProjectInstaller.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:25:42.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

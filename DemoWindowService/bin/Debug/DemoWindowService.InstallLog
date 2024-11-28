@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\GHM\source\repos\DemoWindowService\DemoWindowService\bin\Debug\DemoWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\GHM\source\repos\DemoWindowService\DemoWindowService\bin\Debug\DemoWindowService.InstallLog
+   assemblypath = C:\Users\GHM\source\repos\DemoWindowService\DemoWindowService\bin\Debug\DemoWindowService.exe
+Installing service SecondServicesEver...
+Service SecondServicesEver has been successfully installed.
+Creating EventLog source SecondServicesEver in log Application...
+Committing assembly 'C:\Users\GHM\source\repos\DemoWindowService\DemoWindowService\bin\Debug\DemoWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\GHM\source\repos\DemoWindowService\DemoWindowService\bin\Debug\DemoWindowService.InstallLog
+   assemblypath = C:\Users\GHM\source\repos\DemoWindowService\DemoWindowService\bin\Debug\DemoWindowService.exe
